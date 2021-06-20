@@ -1,1 +1,1 @@
-# HackerFromToday.github.io
+# 今日から貴方もハッカーです。
